@@ -1,6 +1,6 @@
 ### Hi, my name is **Aba Nicaisse**
 ##### I am a Uganda based Software Engineer originary from Congo (D.R.). I'm currently a Frontend ReactJS developer on my way to becoming a fullstack JavaScript developper. I fell in love with Tech and Programming since I was 8y.o. when my dad got me my first PC, and now I can't take my eyes away from VsCode which is currently my favorite code editor. </br>
-![I am a frontend ReactJs Developer](https://pbs.twimg.com/profile_banners/1380596680274378755/1634132631/600x200)
+![I am a frontend ReactJs Developer](https://github.com/abanicaisse/abanicaisse/blob/main/github-banner.jpg)
 
 
 Skills: / HTML / CSS / JS / REACTJS
