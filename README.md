@@ -1,5 +1,5 @@
 # **Aba Nicaisse**
-I am a Software Engineer from Congo (D.R.C.). I'm currently a Frontend ReactJS/NextJS developer on my way to becoming a fullstack JavaScript developper. I fell in love with Tech and Programming since I was 8y.o. when my dad got me my first PC, and now I can't take my eyes away from VsCode which is currently my favorite code editor. </br>
+I am a Software Engineer and Frontend ReactJS/NextJS developer from Congo (D.R.C.). I fell in love with Tech and Programming since I was 8y.o. when my dad got me my first PC, and now I can't take my eyes away from VsCode which is currently my favorite code editor. </br>
 
 ## Skills and Experience
 * <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
